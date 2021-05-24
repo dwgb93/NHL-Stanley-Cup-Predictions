@@ -274,7 +274,10 @@ Overall, there's a lot more agreement between the results, which is promising. L
 | 15 | Edmonton | | 
 | 16 | Montreal | | 
 
-Now that's a model! At this point, I have no idea how it did, as I created it before the playoffs even started, but I can't wait to find out.
+Now that's a model! At this point, I have no idea how it did, as I created it before the playoffs even started, but I can't wait to find out. One thing I haven't done in previous years is made a proper bracket. Generally, for any matchup, you'd expect the higher ranked (predicted) team to win. Given it's a best of 7 situation, the more games they play, the more likely they are to converge to the expected result. Using this method, let's make a bracket.
+
+## Final Bracket
+[My image](https://github.com/dwgb93/NHL-Stanley-Cup-Predictions/blob/main/2021/2021%20Stanley%20Cup%20Predictions.jpg)
 
 
 
