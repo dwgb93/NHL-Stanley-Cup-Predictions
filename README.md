@@ -279,6 +279,7 @@ Now that's a model! At this point, I have no idea how it did, as I created it be
 ## Final Bracket
 ![My image](https://github.com/dwgb93/NHL-Stanley-Cup-Predictions/blob/main/2021/2021%20Stanley%20Cup%20Predictions.png?raw=True)
 
+I didn't realize how the semi-finals worked. So it will be the winner of North Division vs West Division (seed 4 vs seed 1) and the winner of East Division vs Central Division (seed 3 vs seed 2), based on regular season standings. That means (if everythings works out), we'll have the top two model playing for the finals instead of in the semi-finals.
 
 
 
