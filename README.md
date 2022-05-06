@@ -257,22 +257,22 @@ Overall, there's a lot more agreement between the results, which is promising. L
 ## Final Ensemble
 | Rank | Team | Notes (TBA) |
 |-----|-----|-----|
-| 1 | Boston | |  
-| 2 | Colorado | | 
+| 1 | Boston | Quarter Finals |  
+| 2 | Colorado | Quarter Finals | 
 | 3 | St. Louis | | 
-| 4 | Tampa | | 
-| 5 | Carolina | | 
-| 6 | Vegas | | 
+| 4 | Tampa |Stanley Cup Champions | 
+| 5 | Carolina | Quarter Finals | 
+| 6 | Vegas | Semi-Finals | 
 | 7 | Washington | |
 | 8 | Pittsburgh | |
 | 9 | Toronto | | 
-| 10 | New York I | |
+| 10 | New York I | Semi-Finals |
 | 11 | Nashville | | 
-| 12 | Winnipeg | |   
+| 12 | Winnipeg | Quarter Finals |   
 | 13 | Minnesota | | 
 | 14 | Florida | | 
 | 15 | Edmonton | | 
-| 16 | Montreal | | 
+| 16 | Montreal | Lost in Finals (!) | 
 
 Now that's a model! At this point, I have no idea how it did, as I created it before the playoffs even started, but I can't wait to find out. One thing I haven't done in previous years is made a proper bracket. Generally, for any matchup, you'd expect the higher ranked (predicted) team to win. Given it's a best of 7 situation, the more games they play, the more likely they are to converge to the expected result. Using this method, let's make a bracket.
 
